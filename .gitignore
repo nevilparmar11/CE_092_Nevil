@@ -1,0 +1,3 @@
+# ignore generated .dll and .exe files inside LAB_1 folder
+/LAB_1/*.exe
+/LAB_1/*.dll

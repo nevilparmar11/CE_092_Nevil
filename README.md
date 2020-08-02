@@ -6,7 +6,7 @@
 4. driver.cs program which will be used to create exe and which refers addition.dll file.
 
 # Lab - 04 
-#### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_4/Working&#32;of&#32;Project&#32;-&#32;WDDN&#32;-&#32;L4.pdf)
+#### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_4/Working&#32;Of&#32;Projects&#32;-&#32;WDDN&#32;-&#32;L4.pdf)
 1. Creating and publishing dll file to nuget package manager.
   - [Task 1](LAB_4/Task&#32;1)
   - [Nuget Package Link](https://www.nuget.org/packages/GraphTraversal.cs/)

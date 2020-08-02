@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>GraphTraversal.cs</id>
+    <version>1.0.0</version>
+    <authors>nevil</authors>
+    <owners>nevil</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://nevilparmar.me</projectUrl>
+    <iconUrl>https://techdifferences.com/wp-content/uploads/2017/10/Untitled-4.jpg</iconUrl>
+    <description>Package contains utilities for graph traversal. You can use this package in your project to traverse the graph in BFS and DFS manner.</description>
+    <releaseNotes>Added BFS and DFS for undirected graph using Adjacency Matrix.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>GraphTraversal BFS DFS</tags>
+  </metadata>
+</package>

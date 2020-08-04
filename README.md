@@ -13,7 +13,7 @@
 2. Task 2 
 - [Task 2.a => Login Page](LAB_4/Task&#32;2/Task&#32;2.a)
 - [Task 2.b => Home Screen with user registration form](LAB_4/Task&#32;2/Task&#32;2.b)
-- [Task 2.a => Show/Hide an image on button click](LAB_4/Task&#32;2/Task&#32;2.c)
+- [Task 2.c => Show/Hide an image on button click](LAB_4/Task&#32;2/Task&#32;2.c)
   
   
 

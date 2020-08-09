@@ -1,0 +1,20 @@
+[Steps to create strong named assembly calc.dll and deploy it to GAC]
+1. Open developer command prompt as a administrator
+2. Generete snk key
+    :: sn -k myKey.snk
+3. compile calc.cs file with this generated key file
+    :: csc /t:library /keyfile:myKey.snk calc.cs
+4. Deployment to GAC
+    :: gacutil -i calc.dll
+5. you can verify physically in GAC, C;windows;Microsoft .NET;Assembly;GAC_MSIL Folder
+
+
+
+[Steps to create new version calc.dll and upload it to GAC]
+// If you wish you can keep a copy of old calc.cs file inside any other folder, and then follow the below steps
+1. make changes inside calc.cs file
+2. add following line in the beginning :
+    o using System.Reflection;
+    o [assembly: AssemblyVersion("1.0.0.0")]
+3. Deployment to gacutil
+    :: gacutil -i calc.dll

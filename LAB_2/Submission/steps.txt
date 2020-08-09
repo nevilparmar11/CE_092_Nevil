@@ -1,0 +1,6 @@
+[Steps to generate netmodules files]
+1. csc /t:module addition.cs
+2. csc /t:module multiplication.cs
+
+[Steps to combine two netmodule files into single DLL file named Calc.dll]
+csc /t:library /out:Calc.dll /addmodule:addition.netmodule /addmodule:multiplication.netmodule

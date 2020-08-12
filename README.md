@@ -28,6 +28,14 @@
 - [Task 2.a => Login Page](LAB_4/Task&#32;2/Task&#32;2.a)
 - [Task 2.b => Home Screen with user registration form](LAB_4/Task&#32;2/Task&#32;2.b)
 - [Task 2.c => Show/Hide an image on button click](LAB_4/Task&#32;2/Task&#32;2.c)
+
+# Lab - 05 
+#### [Output Images. ](LAB_5/Outputs)
+1. Applicataion to demonstrate the use of cookies.
+  - [Task 1](LAB_5/Task&#32;1)
+2. Create demo shopping application 
+- [Task 2](LAB_5/Task&#32;2)
+  
   
   
 

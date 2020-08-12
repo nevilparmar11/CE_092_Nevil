@@ -4,6 +4,13 @@
   - [Task 1](LAB_5/Task&#32;1)
 2. Create demo shopping application 
 - [Task 2](LAB_5/Task&#32;2)
+3. Optional Tasks
+  - There is a button and label on the page and when button is clicked, the count
+    is incremented in the label. Make use of ViewState.
+  - [Task A_Counter](LAB_5/Extra&#32;Tasks/Task_A_Counter)
+  - Pass information of two textboxes from page 1 to page 2 using Cross Page
+    Posting technique.
+  - [Task_B_CrossPagePosting](LAB_5/Extra&#32;Tasks/Task_B_CrossPagePosting)
 
 # Lab - 04 
 #### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_4/Working&#32;Of&#32;Projects&#32;-&#32;WDDN&#32;-&#32;L4.pdf)

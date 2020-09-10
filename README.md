@@ -1,3 +1,25 @@
+# Lab - 06 
+#### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_6/Working&#32;of&#32;Assignment&#32;Tasks-WDDN-L6.pdf)
+1. [Task 1](LAB_6/Task&#32;1/).
+  - Insert.aspx - This page contains text boxes for adding student details and submit
+    buttons. When the button is clicked, data is added into the table.
+  - Edit.aspx : It has one textbox. When a user enters a student ID in the textbox and
+    clicks on the fetch button, details of that student are fetched in other textboxes on the
+    same page. After doing editing, when the user clicks on the submit button, the values
+    are updated in the database.
+  - Delete.aspx - User enters ID number in the textbox and when clicks the Delete
+    button, the corresponding record from the database gets deleted.
+  - Show.aspx : This page displays the content of the student table in the gridview.
+  
+2. [Task 2](LAB_6/Task&#32;2/). 
+  - Login.aspx - User id and password is validated against the database. On successful
+    login, create a session and go to product.aspx page.
+  - Product.aspx - All available products are listed in gridview with their price. All product
+    names are also fetched in Listbox from which users can select one or more products
+    and press the place order button.
+  - Order.aspx - The order details of the user is displayed ( All items in the order along
+    with final amount to be paid)
+
 # Lab - 05 
 #### [Output Images. ](LAB_5/Outputs)
 1. Applicataion to demonstrate the use of cookies.

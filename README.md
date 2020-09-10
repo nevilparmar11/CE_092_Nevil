@@ -1,3 +1,29 @@
+# Lab - 07 
+#### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_7/Working&#32;of&#32;Assignment&#32;Tasks-WDDN-L7.pdf)
+1. LINQ Demo With Numbers List
+  - [Task 1](LAB_7/Task&#32;1)
+  
+2. LINQ Demo With Human Names (String)
+  - [Task 2](LAB_7/Task&#32;2)
+
+3. [Task 3](LAB_7/Task&#32;3/).
+  - Home.aspx - There is one textbox in which the user enters product ID
+    and press submit button. The control goes to the product.aspx page.
+  - Product.aspx - This page has a detailed view control which receives product ID from previous page via query string and
+    displays corresponding product details in detail view control. The details view also has
+    facility to Insert, Update or Delete product records.
+  - allproduct.aspx - which displays all product details in Gridview. The gridview has editing, deletion, paging and
+    sporting facilities.
+  
+4. [Task 4](LAB_7/Task&#32;4/). 
+  - Insert.aspx - Insertion of new record.
+  - Update.aspx : Update the record
+  - Delete.aspx - Delete the record
+  - Show.aspx : view all records in gridview with editing, deletion, sorting functionality. Gridview
+    only displays Student ID and Name. When any record in the gridview is selected, all the
+    details of the corresponding record with values of all fields are displayed in the details view
+    control on the same page.
+  
 # Lab - 06 
 #### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_6/Working&#32;of&#32;Assignment&#32;Tasks-WDDN-L6.pdf)
 1. [Task 1](LAB_6/Task&#32;1/).

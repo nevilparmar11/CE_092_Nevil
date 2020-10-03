@@ -1,3 +1,11 @@
+# Lab - 08 
+#### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_8/Working&#32;of&#32;Assignment&#32;Tasks-WDDN-L8.pdf)
+1. [Task 1](LAB_8/Task&#32;1/).
+  
+2. [Task 2](LAB_8/Task&#32;2/). 
+
+
+
 # Lab - 07 
 #### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_7/Working&#32;of&#32;Assignment&#32;Tasks-WDDN-L7.pdf)
 1. LINQ Demo With Numbers List

@@ -1,3 +1,15 @@
+![IMS](https://user-images.githubusercontent.com/48133426/99826337-3cbfab80-2b7e-11eb-9b74-d8e80cdd5de7.jpg)
+
+
+## 🌐 Live Demo
+#### [Visit Demo](https://imsmvcsystem.azurewebsites.net/Account/Login)
+Note : The site is up and live on azure platform. Since I am using the free service providers, few funcionalities might not work as expected due to the free subscription quotas and limits.
+
+#### [Detailed Explanation of each features + Live Demo](https://drive.google.com/file/d/1mwveoeOQRKBdXODgOvOU_4EPGmKcsNP7/view?usp=sharing)
+#### [Repository of the project](https://github.com/nevilparmar11/Project_CE092)
+
+
+
 # Lab - 09 
 #### [Click here to see the detailed working and explanation of each task of this lab with output. ](LAB_9/Working&#32;of&#32;Assignment&#32;Tasks-WDDN-L9.pdf)
 1. [Task 1](LAB_9/Task&#32;1/).

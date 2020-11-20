@@ -6,7 +6,7 @@
 Note : The site is up and live on azure platform. Since I am using the free service providers, few funcionalities might not work as expected due to the free subscription quotas and limits.
 
 #### [Detailed Explanation of each features + Live Demo](https://drive.google.com/file/d/1mwveoeOQRKBdXODgOvOU_4EPGmKcsNP7/view?usp=sharing)
-#### [Repository of the project](https://github.com/nevilparmar11/Project_CE092)
+#### [Repository of the project](https://github.com/nevilparmar11/Inventory-Management-System)
 
 
 

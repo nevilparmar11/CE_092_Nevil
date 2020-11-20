@@ -6,7 +6,7 @@
 Note : The site is up and live on azure platform. Since I am using the free service providers, few funcionalities might not work as expected due to the free subscription quotas and limits.
 
 ## Inventory and Order Management System
-#### [Software Requirements Document [SRS]](https://github.com/nevilparmar11/Project_CE092/blob/main/Documentation/Inventory_Management_System_CE092.pdf)
+#### [Software Requirements Document [SRS]](https://github.com/nevilparmar11/CE_092_Nevil/blob/master/Project_CE092/Documentation/Inventory_Management_System_CE092.pdf)
 
 This system provides any firm a functionality that enables them to keep a track of their goods and orders across the supply chain. It also plays a vital role in taking care of small business needs including sales and accounting, and can even help multiple users to handle their workflow efficiently. The admin can manage multiple users and assign them appropriate role and permissions to work parallelly in the system. The firm can manage/store their vendor, shipment, bill, customers, and warehouse records which in turn gets processed by the system to get an analytical view of their progress in the market, and the system can alert/suggest at an apt time.
 

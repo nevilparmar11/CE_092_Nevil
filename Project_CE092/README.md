@@ -5,6 +5,9 @@
 [Visit Demo](https://imsmvcsystem.azurewebsites.net/Account/Login) <br>
 Note : The site is up and live on azure platform. Since I am using the free service providers, few funcionalities might not work as expected due to the free subscription quotas and limits.
 
+#### [Detailed Explanation of each features + Live Demo](https://drive.google.com/file/d/1mwveoeOQRKBdXODgOvOU_4EPGmKcsNP7/view?usp=sharing)
+
+
 ## Inventory and Order Management System
 #### [Software Requirements Document [SRS]](https://github.com/nevilparmar11/CE_092_Nevil/blob/master/Project_CE092/Documentation/Inventory_Management_System_CE092.pdf)
 

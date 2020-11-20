@@ -1,3 +1,5 @@
+# Project - Inventory Management System
+
 ![IMS](https://user-images.githubusercontent.com/48133426/99826337-3cbfab80-2b7e-11eb-9b74-d8e80cdd5de7.jpg)
 
 
